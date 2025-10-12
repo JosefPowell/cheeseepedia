@@ -1,14 +1,15 @@
 +++
-title = "Chuck E. Cheese's Show 5 2016"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Chuck E. Cheese's Show 5 2016"
 startDate = "2016-06-27"
 endDate = "2016-8-21"
-contributors = ["The 64th Gamer","Documentor","Mousester","Dame868"]
-citations = []
 pageThumbnailFile = "IUoBhbwL9L3oRYkoHw0I.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+contributors = ["The 64th Gamer", "Documentor", "Mousester", "Dame868"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
+downloadLinks = ["https://archive.org/download/show-5-2016-stcdvd_202510/Show%205%202016%20-%20STCDVD.iso"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Show 5 2016* was released on June 27th, 2016 and was played through August 21st, 2016. This show featured four new songs.**
 
