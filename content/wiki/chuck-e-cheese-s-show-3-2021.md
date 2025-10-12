@@ -1,14 +1,15 @@
 +++
-title = "Chuck E. Cheese's Show 3 2021"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Chuck E. Cheese's Show 3 2021"
 startDate = "2021-05-31"
 endDate = "2021-8-29"
-contributors = ["CyberSnout","The 64th Gamer","Himitsu","Dame868","Ceclife13"]
-citations = []
 pageThumbnailFile = "eYm2TSI_ZT5EKeoLQaQx.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+contributors = ["CyberSnout", "The 64th Gamer", "Himitsu", "Dame868", "Ceclife13"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
+downloadLinks = ["https://archive.org/download/untitled-project_20220330/Untitled%20Project.iso"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 ***Show 3 2021* is the Summer show released May 31, 2021.
 This was created with conjunction with the Summer of Fun promotion and would play from May 31, 2021 - August 29, 2021. This show features 7 Songs with 4 of which being new and 3 being reused and a live show called Chuck E.'s Beach Party Bash.**
